@@ -45,7 +45,7 @@ function addNoteHandler(req, h) {
 
 function getAllNotesHandler() {
   return {
-    status: 'sucesss',
+    status: 'success',
     data: {
       notes,
     },
